@@ -1,0 +1,3 @@
+is: metricbeat
+includes: ['layer:beats-base']
+repo: git@github.com/sebastienpattyn93/tengu-charms.git
