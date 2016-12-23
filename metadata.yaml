@@ -1,4 +1,4 @@
-name: metricbeat
+lname: metricbeat
 summary: Metricbeat is a lightweight Shipper for Metrics
 maintainer: Sebastien Pattyn <sebastien.pattyn@qrama.io>
 description: |
@@ -8,4 +8,4 @@ description: |
 tags:
   - logging
   - monitoring
-series: ['trusty']
+series: ['xenial']
